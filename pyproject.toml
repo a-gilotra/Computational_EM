@@ -1,0 +1,8 @@
+[Unit 1]
+assignment-name = "Unit 1: Visualizing Potentials of Point-Charge Arrangements"
+author = "Ayush Gilotra"
+dependencies = [
+	"numpy",
+	"matplotlib"
+]
+
