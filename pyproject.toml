@@ -1,5 +1,5 @@
-[Unit 1]
-assignment-name = "Unit 1: Visualizing Potentials of Point-Charge Arrangements"
+[Unit 2]
+assignment-name = "Unit 2: Visualizing Field Lines"
 author = "Ayush Gilotra"
 dependencies = [
 	"numpy",
