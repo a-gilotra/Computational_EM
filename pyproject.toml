@@ -1,5 +1,5 @@
-[Unit 2]
-assignment-name = "Unit 2: Visualizing Field Lines"
+[Unit 3]
+assignment-name = "Unit 3: CalculatingEquipotentials"
 author = "Ayush Gilotra"
 dependencies = [
 	"numpy",
