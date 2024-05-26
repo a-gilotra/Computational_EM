@@ -1,5 +1,5 @@
-[Unit 3]
-assignment-name = "Unit 3: Calculating Equipotentials"
+[Unit 4]
+assignment-name = "Unit 4: Laplace Equation"
 author = "Ayush Gilotra"
 dependencies = [
 	"numpy",
