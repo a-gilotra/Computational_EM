@@ -1,8 +1,7 @@
-[Unit 4]
-assignment-name = "Unit 4: Laplace Equation"
+[Unit 5]
+assignment-name = "Unit 5: Solutions to the Laplace Equation"
 author = "Ayush Gilotra"
 dependencies = [
 	"numpy",
 	"matplotlib"
 ]
-
